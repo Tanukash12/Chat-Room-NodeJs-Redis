@@ -19,10 +19,10 @@ Check out the live project here:
 ## 📸 Screenshots  
 
 ### Landing / Join Page  
-![Landing Page](#)  
+![Landing Page](./public/landing.png)  
 
 ### Chat UI  
-![Chat UI](#)  
+![Chat UI](./public/chat.png)  
 
 ---
 
@@ -65,3 +65,4 @@ Start the server
 - User join/leave notifications
 - Multiple chat rooms support
 - Lightweight Express backend
+
