@@ -9,13 +9,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-Check out the live project here:  
-[Chat Room Live](#) *(add your deployment link)*  
-
----
-
 ## 📸 Screenshots  
 
 ### Landing / Join Page  
@@ -65,4 +58,5 @@ Start the server
 - User join/leave notifications
 - Multiple chat rooms support
 - Lightweight Express backend
+
 
